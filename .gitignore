@@ -1,3 +1,6 @@
 *.exe
 .temporal
 .tmp.txt
+*.cbp
+*.depend
+obj/
